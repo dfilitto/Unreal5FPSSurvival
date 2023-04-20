@@ -1,0 +1,3 @@
+Aqui você vai encontrar as diversas versões do game.
+
+V1 - Jogo pronto com apenas uma fase
